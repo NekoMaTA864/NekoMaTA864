@@ -10,7 +10,7 @@
 
 ##  My Projects
 
-###  [Discord 自動化圖文管家 (Telegram → Discord)]([這裡是連結](https://github.com/NekoMaTA864/tg-to-discord-bot))
+###  [Discord 自動化圖文管家 (Telegram → Discord)](https://github.com/NekoMaTA864/tg-to-discord-bot)
 
 - **Tech Stack:** `Python` `Discord API` `Telegram API`
 - **技術重點：** API 串接、訊息轉發流程設計、簡單分類邏輯
