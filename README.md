@@ -21,7 +21,7 @@
 
 ---
 
-###  [基於 OpenCV 的遊戲自動化小助手](這裡是連結)
+###  [基於 OpenCV 的遊戲自動化小助手](https://github.com/NekoMaTA864/CHAOS_BOT)
 
 - **Tech Stack:** `Python` `OpenCV` `ADB`
 - **技術重點：** 畫面辨識（Template Matching）、操作模擬、自動化流程控制
