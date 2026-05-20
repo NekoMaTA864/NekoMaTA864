@@ -32,11 +32,6 @@
 
 ---
 
-### Work in Progress
-- 正在構思一個基於 YouTube API 的自動音樂追蹤與播放清單整理工具。
-
----
-
 ## Tech Stack
 
 **Languages & Data**
